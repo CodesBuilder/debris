@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DebrisUI compatibility="1.0">
+	<Window id="mainWindow" width="640" height="480" title="Debris Example">
+		<Label id="testLabelRed" color="#ff0000">This is a test label.</Label>
+		<Label id="testLabelGreen" color="#00ff00">This is a test label.</Label>
+		<Label id="testLabelBlue" color="#0000ff">This is a test label.</Label>
+		<Label id="testLabelPurple" color="#ff00ff">This is a test label.</Label>
+		<Label id="testLabelYellow" color="#ffff00">This is a test label.</Label>
+		<Label id="testLabelCyan" color="#00ffff">This is a test label.</Label>
+		<Outline color="black" width="1">
+			<Label id="testLabelWhite" color="#ffffff">This is a test label.</Label>
+		</Outline>
+	</Window>
+</DebrisUI>
